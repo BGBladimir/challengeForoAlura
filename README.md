@@ -1,4 +1,4 @@
-# Challenge OracleAlura - BackEnd(Spring Framework - API Rest Foro Hub)
+<em> # Challenge OracleAlura - BackEnd(Spring Framework - API Rest Foro Hub) </em>
 Es la resolución del Challenge - Foro Alura utilizando Spring Boot para la creacion de la API Rest, MySQL para las bases de datos y Java 22 para el desarrollo con ayuda del IDE de Intellij e Insomnia para las respectivas pruebas a la API.
 
 El reto cosiste en crear una API implementando las mejores practicas del modelo Rest con validaciones y una implementación de una base de datos para la persistancia de la información.
@@ -21,27 +21,6 @@ Este es nuestro desafío, vamos a replicar a nivel de Back End este proceso, y p
 * Funcionalidad 6: API con rutas implementadas siguiendo las mejores prácticas del modelo Rest.
 * Funcionalidad 7: Validaciones realizadas según reglas del negócio.
 * Funcionalidad 8: Implementación de una base de datos para la persistencia de la información.
-
-## Comenzando 🚀
-Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
-
-Mira Deployment para conocer como desplegar el proyecto.
-
-## Pre-requisitos 📋
-Que cosas necesitas para instalar el software y como instalarlas
-
-Da un ejemplo
-
-## Instalación 🔧
-Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose
-
-Dí cómo será ese paso
-
-Da un ejemplo
-Y repite
-
-hasta finalizar
-Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo
 
 ## Construido con 🛠️
 Para desarrollar el proyecto, utilice las siguientes herramientas:
