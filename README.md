@@ -52,4 +52,3 @@ Para desarrollar el proyecto, utilice las siguientes herramientas:
 * IntelliJ IDEA - Entorno de desarrollo integrado para el desarrollo de programas informáticos.
 * Spring Boot - Herramienta que hace que el desarrollo de aplicaciones web y microservicios con Spring Framework sea más rápido y fácil.
 * Insomnia
->>>>>>> 29fca359068bea55a99103226397e350e386cbe4
